@@ -1,5 +1,5 @@
 # Hello, I'm Nick
-<a href="www.linkedin.com/in/nicholas-m-21b054371"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nicholas-m-21b054371"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a sophmore who is extremely interestested in cybersecurity and Information technology with a dedication to solving real world problems.

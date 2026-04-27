@@ -6,7 +6,7 @@ Sophomore at Oakwood University with a strong interest in cybersecurity and info
 
 ## Objective
 
-My journey in computer science has led me to cybersecurity, and I am now eager to jump into this field, seeking a Cybersecurity Analyst internship to gain hands-on experience in security monitoring, alert triage, incident response, and threat analysis. .
+My journey in computer science has led me to cybersecurity, and I am now eager to jump into this field, seeking a Cybersecurity internship.
 
 
 ## Certifications

@@ -17,16 +17,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
-| SIEM Implementation and Log Analysis          | SOC Simulator THM, Windows Event Log Analysis|
-| Detection, Analysis, and Documentation        | Azure Honeypot and SIEM Detection Lab, SOC Simulator THM |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab |
-| Incident Response Planning and Execution      | SOC Automation Lab |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
-
 
 ### SIEM
 <div>
@@ -44,6 +34,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - SOC Automation Project
+- <a href="https://github.com/ztnickzt/Azure-Honeypot-and-SIEM-Detection-Lab-">Azure Honeypot and SIEM Detection Lab</a>
 - SOC Simulator THM
-- Azure Honeypot and SIEM Detection Lab
 - Windows Event Log Analysis with Splunk

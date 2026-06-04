@@ -39,5 +39,5 @@ I have always loved computers, especially as a huge gamer growing up. My interes
 ## Projects
 - <a href="https://github.com/nickmbi/Multi-Site-Network-Design/tree/main">Multi-Site Network Design<a>
 - <a href="https://github.com/nickmbi/Network-Connectivity-Lab/tree/main">Basic Network Connectivity Project<a>
-- <a href="https://github.com/nickmbi/Azure-Honeypot-and-SIEM-Detection-Lab-">Azure Honeypot and SIEM Detection Lab</a>
+- <a href="https://github.com/nickmbi/Azure-Honeypot-and-SIEM-Detection-Lab">Azure Honeypot and SIEM Detection Lab</a>
 - <a href="https://github.com/nickmbi/Windows-Event-Log-Analysis-with-Splunk">Windows Event Log Analysis with Splunk </a>

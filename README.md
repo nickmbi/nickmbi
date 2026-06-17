@@ -9,6 +9,13 @@ Im a Sophomore at Oakwood University with a strong interest in cybersecurity, se
 I have always loved computers, especially as a huge gamer growing up. My interest in technology led me to study computer science and eventually discover cybersecurity. I am now eager to continue growing in this field and am actively seeking a cybersecurity internship where I can apply my skills, gain hands-on experience, and contribute to a security-focused team.
 
 
+## Projects
+- <a href="https://github.com/nickmbi/Home-SOC-with-Wazuh">Wazuh Home SOC Lab<a>
+- <a href="https://github.com/nickmbi/Multi-Site-Network-Design/tree/main">Multi-Site Network Design<a>
+- <a href="https://github.com/nickmbi/Network-Connectivity-Lab/tree/main">Basic Network Connectivity Project<a>
+- <a href="https://github.com/nickmbi/Azure-Honeypot-and-SIEM-Detection-Lab">Azure Honeypot and SIEM Detection Lab</a>
+- <a href="https://github.com/nickmbi/Windows-Event-Log-Analysis-with-Splunk">Windows Event Log Analysis with Splunk </a>
+
 ## Certifications
 
 <div>
@@ -34,9 +41,3 @@ I have always loved computers, especially as a huge gamer growing up. My interes
 </div>
 
 
-## Projects
-- <a href="https://github.com/nickmbi/Home-SOC-with-Wazuh">Wazuh Home SOC Lab<a>
-- <a href="https://github.com/nickmbi/Multi-Site-Network-Design/tree/main">Multi-Site Network Design<a>
-- <a href="https://github.com/nickmbi/Network-Connectivity-Lab/tree/main">Basic Network Connectivity Project<a>
-- <a href="https://github.com/nickmbi/Azure-Honeypot-and-SIEM-Detection-Lab">Azure Honeypot and SIEM Detection Lab</a>
-- <a href="https://github.com/nickmbi/Windows-Event-Log-Analysis-with-Splunk">Windows Event Log Analysis with Splunk </a>

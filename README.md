@@ -1,5 +1,4 @@
 # 💫 Hello, I'm Nick
-<a href="https://www.linkedin.com/in/nicholas-m-21b054371"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
 I'm a Junior Cybersecurity student at Oakwood University passionate about cybersecurity, threat detection, and security operations. I am highly motivated, disciplined in my learning, and committed to developing job-ready skills through hands-on projects and continuous learning. Each project in this GitHub reflects how I approach problems as an analyst. This portfolio showcases my cybersecurity projects as I continue growing into a security professional.
